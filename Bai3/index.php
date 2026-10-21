@@ -19,7 +19,7 @@
 <body>
 <div class="container">
     <h1>Bài 3 – Form, Validation và xử lý dữ liệu an toàn</h1>
-    <p class="info">Họ tên: Nguyễn Ánh Nhi | MSSV: 22400174</p>
+    <p class="info">Họ tên: Nguyễn Ánh Nhi | MSSV: 224001742</p>
 
     <div class="card">
         <h2>Các bài tập</h2>
